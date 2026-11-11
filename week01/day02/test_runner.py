@@ -1,10 +1,10 @@
 test_names = [
-    "Login valid user", 
-    "Login invalid user", 
-    "Login invalid password", 
-    "Login empty fields", 
-    "Login session timeout"
-    ]
+    "Login valid user",
+    "Login invalid user",
+    "Login invalid password",
+    "Login empty fields",
+    "Login session timeout",
+]
 results = [True, False, False, False, True]
 failed_tests = []
 passed_count = 0
